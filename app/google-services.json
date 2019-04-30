@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906665507059",
+    "firebase_url": "https://tatlitariflerii-ed584.firebaseio.com",
+    "project_id": "tatlitariflerii-ed584",
+    "storage_bucket": "tatlitariflerii-ed584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906665507059:android:3ab900f938a8c71a",
+        "android_client_info": {
+          "package_name": "com.example.ertugrul.tatltarifleri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906665507059-30njc0e7pevfb4g5en7jag94odms4l49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ertugrul.tatltarifleri",
+            "certificate_hash": "d8f10dcbfa2dd026c2fa56a26b417a284e6793bb"
+          }
+        },
+        {
+          "client_id": "906665507059-3uj3bpfg8o2p830d6hio9pn75d9tlvr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVjnZ_e5TEgeKgPYZaPIC1wCCIocBtto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906665507059-3uj3bpfg8o2p830d6hio9pn75d9tlvr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
